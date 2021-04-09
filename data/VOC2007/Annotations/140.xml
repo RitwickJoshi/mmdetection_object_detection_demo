@@ -1,7 +1,7 @@
 <annotation>
 	<folder>ImageSets</folder>
-	<filename>11.png</filename>
-	<path>C:\Users\DESKTOP\Desktop\Compiler\GITHUB\mmdetection_object_detection_demo\data\VOCdevkit\VOC2007\ImageSets\11.png</path>
+	<filename>140.png</filename>
+	<path>C:\Users\DESKTOP\Desktop\Compiler\GITHUB\mmdetection_object_detection_demo\data\VOCdevkit\VOC2007\ImageSets\140.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>203</xmin>
-			<ymin>79</ymin>
-			<xmax>646</xmax>
-			<ymax>389</ymax>
+			<xmin>317</xmin>
+			<ymin>95</ymin>
+			<xmax>709</xmax>
+			<ymax>311</ymax>
 		</bndbox>
 	</object>
 </annotation>
