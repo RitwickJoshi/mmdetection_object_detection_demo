@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>133.png</filename>
+	<path>C:\Users\DESKTOP\Desktop\Compiler\GITHUB\mmdetection_object_detection_demo\data\VOCdevkit\VOC2007\ImageSets\133.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>table</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>82</xmin>
+			<ymin>219</ymin>
+			<xmax>729</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+</annotation>
